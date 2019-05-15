@@ -1,4 +1,4 @@
-# S19-Team2
+# Deep Space Visualizer
 
 ## Build Instructions
 
